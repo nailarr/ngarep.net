@@ -1,2 +1,2 @@
-# chatbotaiprompt
-Adalah penyedia prompt untuk chatgpt untuk mempermudah pekerjaan di segala bidang profesi.
+# ngarep.net
+Adalah blog untuk memotivasi diri dan orang lain dalam memenuhi kebutuhan dasarnya.
